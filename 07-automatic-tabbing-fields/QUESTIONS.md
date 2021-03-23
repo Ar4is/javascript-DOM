@@ -7,3 +7,4 @@
 > What are some refactoring techniques you might apply to the provided solution?
 
 Your reply here...
+Ar funkciju focus() pārvietojs pa input tagiem
